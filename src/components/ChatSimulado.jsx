@@ -2,7 +2,8 @@ import React, { useState, useEffect, useRef } from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
 import { FaTrophy, FaMapSigns, FaUserAlt, FaUserShield, FaSkull } from 'react-icons/fa';
-import { SlActionRedo } from "react-icons/sl";
+import { IoSend } from "react-icons/io5";
+
 
 
 const PageContainer = styled.div`
@@ -297,7 +298,7 @@ function ChatSimulado() {
               onChange={(e) => setInputMessage(e.target.value)}
               placeholder="Digite sua mensagem..."
             />
-            <SendButton onClick={sendMessage}><SlActionRedo /></SendButton>
+            <SendButton onClick={sendMessage}><IoSend /></SendButton>
           </InputContainer>
         </ChatContainer>
 
