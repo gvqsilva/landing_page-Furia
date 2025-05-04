@@ -72,7 +72,7 @@ O projeto foi apresentado em um vídeo de *~3 minutos*, destacando:
 - Atualizações em tempo real durante partidas.
 - Interação rápida com o time via WhatsApp.
 
-(O link para o vídeo será incluído na apresentação oficial.)
+https://youtu.be/I5ChEiyg7T4
 
 ---
 
