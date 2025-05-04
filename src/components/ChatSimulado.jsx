@@ -266,7 +266,7 @@ function ChatSimulado() {
       <ContentContainer>
         <VideoContainer>
           <iframe
-            src="https://www.youtube.com/watch?v=GzhMlf7oXL4&t=5s"
+            src="https://www.youtube.com/embed/d6353XB63_Y"
             title="Vídeo do YouTube"
             frameBorder="0"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
