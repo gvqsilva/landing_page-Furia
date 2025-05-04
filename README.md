@@ -16,18 +16,18 @@
 
 ## 📑 Índice
 
-- [Descrição do Projeto](#descrição-do-projeto)
-- [Landing Page](#landing-page)
-- [Funcionalidades Principais](#funcionalidades-principais)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Demonstração em Vídeo](#demonstração-em-vídeo)
-- [Inspirações e Referências](#inspirações-e-referências)
-- [Melhorias Futuras](#melhorias-futuras)
+- [Descrição do Projeto](#descricao)
+- [Landing Page](#landing)
+- [Funcionalidades Principais](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias)
+- [Demonstração em Vídeo](#demonstracao)
+- [Inspirações e Referências](#inspiracoes)
+- [Melhorias Futuras](#melhorias)
 - [Desenvolvedor](#desenvolvedor)
 
 ---
 
-## 📖 Descrição do Projeto
+<h2 id="descricao" ><strong>📖 Descrição do Projeto</strong></h2>
 
 Este projeto foi desenvolvido como parte do *Challenge #1: Experiência Conversacional* para fãs da *FURIA Esports*.
 
@@ -37,13 +37,13 @@ Inspirado em ideias como *simuladores de torcida, **status de jogos em tempo rea
 
 ---
 
-## 💻 Landing page
+<h2 id="landing" ><strong>💻 Landing page</strong></h2>
 
 Acesso ao site: http://canal-oficial-furia.vercel.app/
 
 ---
 
-## 🚀 Funcionalidades Principais
+<h2 id="funcionalidades" ><strong>🚀 Funcionalidades Principais</strong></h2>
 
 - 💬 *Simulador de Conversa de Torcida* — Envie mensagens como se estivesse na arena, vibrando pela FURIA!
 - 🎮 *Live Status de Jogos* — Acompanhe placares e atualizações simuladas em tempo real.
@@ -54,7 +54,7 @@ Acesso ao site: http://canal-oficial-furia.vercel.app/
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+<h2 id="tecnologia" ><strong>🛠️ Tecnologias Utilizadas</strong></h2>
 
 - *React + Vite* — Framework e empacotador para front-end moderno.
 - *Styled-components* — Estilização de componentes de forma dinâmica.
@@ -65,7 +65,7 @@ Acesso ao site: http://canal-oficial-furia.vercel.app/
 
 ---
 
-## 🎬 Demonstração em Vídeo
+<h2 id="demonstracao" ><strong>🎬 Demonstração em Vídeo</strong></h2>
 
 O projeto foi apresentado em um vídeo de *~3 minutos*, destacando:
 - O funcionamento do chat simulando uma torcida organizada.
@@ -76,7 +76,7 @@ O projeto foi apresentado em um vídeo de *~3 minutos*, destacando:
 
 ---
 
-## 📚 Inspirações e Referências
+<h2 id="inpiracoes" ><strong>📚 Inspirações e Referências</strong></h2>
 
 - [Contato Inteligente da FURIA no WhatsApp (Beta)](https://wa.me/5511993404466)
 - Estudo de chats esportivos e bots de torcida.
@@ -84,7 +84,7 @@ O projeto foi apresentado em um vídeo de *~3 minutos*, destacando:
 
 ---
 
-## ✨ Melhorias Futuras
+<h2 id="melhorias" ><strong>✨ Melhorias Futuras</strong></h2>
 
 - Integração real com API de resultados de jogos (HLTV / liquipedia).
 - Ranking de torcedores mais ativos no chat.
@@ -93,7 +93,7 @@ O projeto foi apresentado em um vídeo de *~3 minutos*, destacando:
 
 ---
 
-## 🧑‍💻 Desenvolvedor
+<h2 id="desenvolvedor" ><strong>🧑‍💻 Desenvolvedor</strong></h2>
 
 *Gabriel Vasquez Queiroz da Silva*  
 💼 GitHub: https://github.com/gvqsilva  
