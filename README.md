@@ -17,6 +17,7 @@
 ## 📑 Índice
 
 - [Descrição do Projeto](#descrição-do-projeto)
+- [Landing Page](#landing-page)
 - [Funcionalidades Principais](#funcionalidades-principais)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Demonstração em Vídeo](#demonstração-em-vídeo)
